@@ -1,7 +1,7 @@
 # Accredian Assignment
 
 ## Introduction
-This project is a Full Stack application (Express.js, React.js, Node.js, SQL) for a Refer & Earn landing page. It allows users to refer a course to their friends through a user-friendly interface.
+This project is a Full Stack app (Express.js, React.js, Node.js, MySQL) for a Refer & Earn landing page. It allows users to refer a course to their friends through a user-friendly interface.
 
 ## Features
 - **Frontend**: Built with React.js, featuring a responsive and intuitive UI.
