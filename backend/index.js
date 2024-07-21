@@ -7,7 +7,7 @@ require('dotenv').config();
 const app = express();
 
 app.use(cors({
-  origin: ["http://deploy-mern-1whq.vercel.app"], 
+  origin: ["https://accredian-task-frontend-puce.vercel.app"], 
   methods: ['GET', 'POST'],
   credentials: true
 }));
